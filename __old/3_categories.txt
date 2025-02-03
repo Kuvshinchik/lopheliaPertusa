@@ -1,0 +1,15 @@
+
+https://laravelbot.ru/3_categories.php
+
+Illuminate\View\View {#1638 Ў // app/Http/Controllers/MenublocksController.php:65
+  #factory: Illuminate\View\Factory {#272 …23}
+  #engine: Illuminate\View\Engines\CompilerEngine {#1621 ?}
+  #view: "index"
+  #data: array:4 [Ў
+    "massivRazdelovSayta" => array:4 [?]
+    "zagalovokViewTovars" => "Изделия из категории Украшения из камня"
+    "massivTovars" => array:14 [?]
+    "massivIdTovar" => array:2 [?]
+  ]
+  #path: "/home/c/cv14436/laravel.loc/resources/views/index.blade.php"
+}

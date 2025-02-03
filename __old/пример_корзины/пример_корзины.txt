@@ -1,0 +1,41 @@
+﻿
+запрос в Яндекс - msminicartdynamic
+
+
+https://modstore.pro/packages/integration/msminicartdynamic
+
+https://modx.pro/components/8532?ysclid=m5fgp6fkl6920636838
+
+https://codelab.pro/sozdaem-korzinu-tovarov-na-javascript/
+https://demo.codelab.pro/examples/shopping-cart/index.html
+
+
+
+https://stackoverflow.com/questions/70459604/how-we-can-manage-cart-without-login-and-with-login-in-laravel
+
+
+
+Мы разрабатываем веб- и мобильные API.
+
+Как можно управлять корзиной и списком желаний без и после входа в систему на обеих платформах в веб- и мобильном приложениях.
+
+Несколько случаев.
+
+пользователь может добавлять товары в корзину и оформлять заказ без входа в систему.
+пользователь может оформить заказ после входа в систему.
+Как мы можем управлять веб-сайтом и мобильным приложением.
+
+Например, если пользователь добавил 2 товара в корзину без входа в систему и 3 с мобильного устройства, а затем он сначала войдет в систему с мобильного устройства, он увидит только 2 товара, поскольку с его/ее учетной записью связано только 2 товара.
+
+Но если он войдет в корзину через веб-сайт до оформления заказа с мобильного устройства, то в ней будет всего 5 товаров.
+
+
+https://eltexcm.ru/
+eltexcm_ru
+
+<div id="stuffHelper" style="top: 372px; left: 884px; display: block;">
+<div id="stuffHelper_name" class="name">Удалить?</div>
+<div><button class="btn" id="stuffHelper_confirm">Ок</button>
+<button class="btn" id="stuffHelper_cancel">Отмена</button>
+</div>
+</div>

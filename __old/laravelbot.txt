@@ -1,0 +1,15 @@
+
+https://laravelbot.ru/
+
+Illuminate\View\View {#1241 Ў // app/Http/Controllers/MenublocksController.php:83
+  #factory: Illuminate\View\Factory {#1238 …23}
+  #engine: Illuminate\View\Engines\CompilerEngine {#1251 ?}
+  #view: "index"
+  #data: array:4 [Ў
+    "massivRazdelovSayta" => array:4 [?]
+    "zagalovokViewTovars" => "Все товары"
+    "massivTovars" => array:14 [?]
+    "massivIdTovar" => array:14 [?]
+  ]
+  #path: "/home/c/cv14436/laravel.loc/resources/views/index.blade.php"
+}

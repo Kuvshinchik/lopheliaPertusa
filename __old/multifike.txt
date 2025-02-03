@@ -1,0 +1,89 @@
+﻿Illuminate\Http\Request {#46 ▼ // app/Http/Controllers/AdminTableSaveController.php:29
+  +attributes: Symfony\Component\HttpFoundation\ParameterBag {#48 ▶}
+  +request: Symfony\Component\HttpFoundation\InputBag {#47 ▶}
+  +query: Symfony\Component\HttpFoundation\InputBag {#54 ▶}
+  +server: Symfony\Component\HttpFoundation\ServerBag {#51 ▶}
+  +files: Symfony\Component\HttpFoundation\FileBag {#50 ▼
+    #parameters: array:2 [▼
+      "file_1" => Symfony\Component\HttpFoundation\File\UploadedFile {#34 ▼
+        -test: false
+        -originalName: "Hydrangeas.jpg"
+        -mimeType: "image/jpeg"
+        -error: 0
+        path: "/tmp"
+        filename: "phpehk31y"
+        basename: "phpehk31y"
+        pathname: "/tmp/phpehk31y"
+        extension: ""
+        realPath: "/tmp/phpehk31y"
+        aTime: 2024-10-04 12:03:59
+        mTime: 2024-10-04 12:03:59
+        cTime: 2024-10-04 12:03:59
+        inode: 202553
+        size: 595284
+        perms: 0100600
+        owner: 8464
+        group: 600
+        type: "file"
+        writable: true
+        readable: true
+        executable: false
+        file: true
+        dir: false
+        link: false
+      }
+      "file_2" => Symfony\Component\HttpFoundation\File\UploadedFile {#35 ▼
+        -test: false
+        -originalName: "Koala.jpg"
+        -mimeType: "image/jpeg"
+        -error: 0
+        path: "/tmp"
+        filename: "phpX3kcI5"
+        basename: "phpX3kcI5"
+        pathname: "/tmp/phpX3kcI5"
+        extension: ""
+        realPath: "/tmp/phpX3kcI5"
+        aTime: 2024-10-04 12:03:59
+        mTime: 2024-10-04 12:03:59
+        cTime: 2024-10-04 12:03:59
+        inode: 202554
+        size: 780831
+        perms: 0100600
+        owner: 8464
+        group: 600
+        type: "file"
+        writable: true
+        readable: true
+        executable: false
+        file: true
+        dir: false
+        link: false
+      }
+    ]
+  }
+  +cookies: Symfony\Component\HttpFoundation\InputBag {#49 ▶}
+  +headers: Symfony\Component\HttpFoundation\HeaderBag {#52 ▶}
+  #content: null
+  #languages: null
+  #charsets: null
+  #encodings: null
+  #acceptableContentTypes: null
+  #pathInfo: "/admin/Table/save/tovars"
+  #requestUri: "/admin/Table/save/tovars"
+  #baseUrl: ""
+  #basePath: null
+  #method: "POST"
+  #format: null
+  #session: Illuminate\Session\Store {#307 ▶}
+  #locale: null
+  #defaultLocale: "en"
+  -preferredFormat: null
+  -isHostValid: true
+  -isForwardedValid: true
+  #json: null
+  #convertedFiles: null
+  #userResolver: Closure($guard = null) {#268 ▶}
+  #routeResolver: Closure() {#277 ▶}
+  basePath: ""
+  format: "html"
+}

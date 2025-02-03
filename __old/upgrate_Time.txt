@@ -1,0 +1,19 @@
+
+date_default_timezone_set("UTC+3");
+
+//$stop_date = 1719475559;
+//1719475559 - 27 июня 2024 года 11:40;
+//dd(floor((Time() - 1719475559)/60/60/24));
+/*
+$massivDateComment = explode('_', $massivBlogs['dateComment']);
+$massivDateComment[0] = $massivDateComment[0] + $intervalVremeni;
+$dateComment_01 = implode('_', $massivDateComment);
+
+$intervalVremeni = floor((Time() - 1719475559)/60/60/24);
+$intervalVremeni = -1*$intervalVremeni;
+$stop_date = '2024-06-27';
+$strIntervalVremeni = $intervalVremeni . ' day';
+$your_date = strtotime($strIntervalVremeni, strtotime($stop_date));
+$new_date = date("Y-m-d", $your_date);
+dd($new_date);
+*/
